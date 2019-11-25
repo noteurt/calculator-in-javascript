@@ -1,0 +1,27 @@
+.box{
+    
+    height:50px;
+    width: 50px;
+    background-color: aqua;
+    margin: 1px;
+    text-align: center;
+   
+}
+
+.box.zero{
+    height: inherit;
+    width: 154px;
+}
+
+.box.backspace{
+    height: inherit;
+    width:102px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    width: 210px;
+    flex-wrap: wrap;
+    background-color: black;
+}
