@@ -23,12 +23,12 @@
     background-color: rgb(223, 170, 28);
 }
 
-.box.zero{
+.box#zero{
     height: inherit;
     width: 154px;
 }
 
-.box.backspace{
+.box#backspace{
     height: inherit;
     width:102px;
 }
